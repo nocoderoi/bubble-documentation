@@ -1,0 +1,77 @@
+name: Deploy Docusaurus to GitHub Pages
+
+# This workflow runs when:
+# 1. Code is pushed to the main branch
+# 2. The workflow is manually triggered (via GitHub UI)
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Define job concurrency to prevent overlapping deployments
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+# Set specific, minimal permissions required for deployment
+permissions:
+  contents: read # To checkout the repository
+  pages: write # To deploy to GitHub Pages
+  id-token: write # For GitHub Pages authentication
+
+# Environment setup
+env:
+  NODE_VERSION: '18' # LTS version for better stability
+
+jobs:
+  build-and-deploy:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 15 # Set timeout to prevent hung builds
+    
+    steps:
+      # Checkout repository with a small history to speed up checkout
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      
+      # Setup Node.js with caching for faster builds
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+      
+      # Install dependencies with clean install for reproducible builds
+      - name: Install dependencies
+        run: npm ci
+        timeout-minutes: 5
+      
+      # Configure GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      # Build the Docusaurus site
+      - name: Build
+        run: npm run build
+        timeout-minutes: 5
+      
+      # Upload build artifacts
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './build'
+      
+      # Deploy to GitHub Pages using official action
+      # This is more secure than using third-party actions
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      
+      # Report success and URL
+      - name: Output deployment URL
+        if: success()
+        run: |
+          echo "🚀 Successfully deployed to ${{ steps.deployment.outputs.page_url }}"
+
