@@ -65,7 +65,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Plugins',
           },
           {
             href: 'https://github.com/nocoderoi/bubble-documentation',
@@ -81,8 +81,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Plugins',
+                to: '/docs/plugins/searchbox-pro',
               },
             ],
           },
