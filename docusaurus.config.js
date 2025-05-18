@@ -58,7 +58,7 @@ const config = {
         title: 'Bubble Documentation',
         logo: {
           alt: 'Bubble Logo',
-          src: 'img/logo.svg',
+          src: 'https://cdn.prod.website-files.com/659d6dd87d35d454a8ffd858/65a2817373352e86a37446e6_logo.svg',
         },
         items: [
           {
@@ -90,25 +90,37 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/82149837/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/nocoderoi',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://x.com/nocoderoi22451',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@nocoderoioffice',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Links',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/nocoderoi/bubble-documentation',
+                label: 'Homepage',
+                href: 'https://www.nocoderoi.com',
+              },
+              {
+                label: 'Marketplace',
+                href: 'https://www.nocoderoi.com/marketplace',
+              },
+              {
+                label: 'CloudSignal',
+                href: 'https://www.cloudsignal.io',
               },
             ],
           },
