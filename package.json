@@ -1,6 +1,6 @@
 {
-  "name": "my-docusaurus",
-  "version": "0.0.0",
+  "name": "bubble-documentation",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -19,13 +19,13 @@
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.7.0",
     "@docusaurus/types": "3.7.0",
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.0.0"
   },
   "browserslist": {
     "production": [
@@ -43,3 +43,4 @@
     "node": ">=18.0"
   }
 }
+

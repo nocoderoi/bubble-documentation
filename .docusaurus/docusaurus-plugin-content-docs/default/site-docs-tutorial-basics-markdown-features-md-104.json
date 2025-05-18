@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/markdown-features",
+  "title": "Documentation Features in Bubble",
+  "description": "When documenting your Bubble applications, you can use a variety of formatting features to make your documentation clear, readable, and professional. This guide covers the key formatting options available for your Bubble documentation.",
+  "source": "@site/docs/tutorial-basics/markdown-features.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/markdown-features",
+  "permalink": "/bubble-documentation/docs/tutorial-basics/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/docs/tutorial-basics/markdown-features.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating Pages in Your Bubble Application",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/create-a-page"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/congratulations"
+  }
+}

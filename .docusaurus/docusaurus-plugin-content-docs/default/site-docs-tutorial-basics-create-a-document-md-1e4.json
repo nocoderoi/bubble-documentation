@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/create-a-document",
+  "title": "Creating Documentation for Your Bubble App",
+  "description": "Documentation is essential for helping users understand how to use your Bubble application. This guide will show you how to create comprehensive documentation for your app.",
+  "source": "@site/docs/tutorial-basics/create-a-document.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-document",
+  "permalink": "/bubble-documentation/docs/tutorial-basics/create-a-document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/docs/tutorial-basics/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Bubble",
+    "permalink": "/bubble-documentation/docs/intro"
+  },
+  "next": {
+    "title": "Creating a Blog with Bubble",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/create-a-blog-post"
+  }
+}

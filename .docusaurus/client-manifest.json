@@ -1,0 +1,593 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "42": [
+      42
+    ],
+    "132": [
+      249,
+      401,
+      622,
+      643,
+      813,
+      869,
+      132
+    ],
+    "622": [
+      132,
+      212,
+      249,
+      643,
+      813,
+      869,
+      622
+    ],
+    "17896441": [
+      132,
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "01a85c17": [
+      869,
+      209
+    ],
+    "0e384e19": [
+      976
+    ],
+    "10411eb9": [
+      624
+    ],
+    "117cc0b1": [
+      737
+    ],
+    "14238dee": [
+      39
+    ],
+    "1e4232ab": [
+      953
+    ],
+    "1f7520c2": [
+      267
+    ],
+    "225fdc17": [
+      265
+    ],
+    "237d7be3": [
+      572
+    ],
+    "36994c47": [
+      858
+    ],
+    "3facfe24": [
+      517
+    ],
+    "4d2154be": [
+      696
+    ],
+    "533a09ca": [
+      98
+    ],
+    "5c868d36": [
+      974
+    ],
+    "5d7a290e": [
+      258
+    ],
+    "5e95c892": [
+      647
+    ],
+    "621db11d": [
+      622,
+      869,
+      212
+    ],
+    "6447336c": [
+      25
+    ],
+    "6875c492": [
+      132,
+      622,
+      869,
+      813
+    ],
+    "707fe67d": [
+      701
+    ],
+    "750ecb2f": [
+      357
+    ],
+    "78c149a7": [
+      339
+    ],
+    "814f3328": [
+      472
+    ],
+    "822bd8ab": [
+      748
+    ],
+    "857d31b5": [
+      636
+    ],
+    "8842bcfc": [
+      233
+    ],
+    "9e4087bc": [
+      711
+    ],
+    "a6aa9e1f": [
+      132,
+      622,
+      869,
+      643
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      717
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "acecf23e": [
+      903
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "ccc49370": [
+      132,
+      622,
+      869,
+      249
+    ],
+    "dff1c289": [
+      724
+    ],
+    "e44a2883": [
+      736
+    ],
+    "ed8a47c2": [
+      705
+    ],
+    "styles": [
+      48,
+      132,
+      209,
+      212,
+      249,
+      354,
+      401,
+      622,
+      634,
+      643,
+      792,
+      813,
+      869
+    ]
+  },
+  "assets": {
+    "25": {
+      "js": [
+        {
+          "file": "assets/js/6447336c.18dcc4fa.js",
+          "hash": "dc9cbaba9b898c01",
+          "publicPath": "/bubble-documentation/assets/js/6447336c.18dcc4fa.js"
+        }
+      ]
+    },
+    "39": {
+      "js": [
+        {
+          "file": "assets/js/14238dee.61ac0777.js",
+          "hash": "493ff0023007fe8f",
+          "publicPath": "/bubble-documentation/assets/js/14238dee.61ac0777.js"
+        }
+      ]
+    },
+    "42": {
+      "js": [
+        {
+          "file": "assets/js/42.2372b637.js",
+          "hash": "c2a0a6c95ba7e75a",
+          "publicPath": "/bubble-documentation/assets/js/42.2372b637.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.9a90c225.js",
+          "hash": "9ac89f643de5ca7d",
+          "publicPath": "/bubble-documentation/assets/js/a94703ab.9a90c225.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/533a09ca.acf1c863.js",
+          "hash": "6ca17d30c4b88a52",
+          "publicPath": "/bubble-documentation/assets/js/533a09ca.acf1c863.js"
+        }
+      ]
+    },
+    "132": {
+      "js": [
+        {
+          "file": "assets/js/132.b84b9b85.js",
+          "hash": "9eeae959fbea71d8",
+          "publicPath": "/bubble-documentation/assets/js/132.b84b9b85.js"
+        }
+      ]
+    },
+    "209": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.07247741.js",
+          "hash": "6e203d16d3514ccf",
+          "publicPath": "/bubble-documentation/assets/js/01a85c17.07247741.js"
+        }
+      ]
+    },
+    "212": {
+      "js": [
+        {
+          "file": "assets/js/621db11d.9758ecd8.js",
+          "hash": "376cf662cb526145",
+          "publicPath": "/bubble-documentation/assets/js/621db11d.9758ecd8.js"
+        }
+      ]
+    },
+    "233": {
+      "js": [
+        {
+          "file": "assets/js/8842bcfc.5bd29d57.js",
+          "hash": "9e3cfdc958fedba8",
+          "publicPath": "/bubble-documentation/assets/js/8842bcfc.5bd29d57.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.a60174ea.js",
+          "hash": "b60f01513839bc60",
+          "publicPath": "/bubble-documentation/assets/js/a7456010.a60174ea.js"
+        }
+      ]
+    },
+    "249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.81080646.js",
+          "hash": "9026fd1c201c542c",
+          "publicPath": "/bubble-documentation/assets/js/ccc49370.81080646.js"
+        }
+      ]
+    },
+    "258": {
+      "js": [
+        {
+          "file": "assets/js/5d7a290e.058a6494.js",
+          "hash": "be4a6de3fcd85b91",
+          "publicPath": "/bubble-documentation/assets/js/5d7a290e.058a6494.js"
+        }
+      ]
+    },
+    "265": {
+      "js": [
+        {
+          "file": "assets/js/225fdc17.e567755f.js",
+          "hash": "254cb687ca51ba3d",
+          "publicPath": "/bubble-documentation/assets/js/225fdc17.e567755f.js"
+        }
+      ]
+    },
+    "267": {
+      "js": [
+        {
+          "file": "assets/js/1f7520c2.0ae914c2.js",
+          "hash": "103a709d0ab80660",
+          "publicPath": "/bubble-documentation/assets/js/1f7520c2.0ae914c2.js"
+        }
+      ]
+    },
+    "339": {
+      "js": [
+        {
+          "file": "assets/js/78c149a7.e9f3bc73.js",
+          "hash": "c87e40f78b789787",
+          "publicPath": "/bubble-documentation/assets/js/78c149a7.e9f3bc73.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.5822b756.js",
+          "hash": "6fa5f666e7a4fc33",
+          "publicPath": "/bubble-documentation/assets/js/runtime~main.5822b756.js"
+        }
+      ]
+    },
+    "357": {
+      "js": [
+        {
+          "file": "assets/js/750ecb2f.0e3a0800.js",
+          "hash": "0acfb8c9ff65189a",
+          "publicPath": "/bubble-documentation/assets/js/750ecb2f.0e3a0800.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.aee2ce3f.js",
+          "hash": "7605445b203533ae",
+          "publicPath": "/bubble-documentation/assets/js/17896441.aee2ce3f.js"
+        }
+      ]
+    },
+    "472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.b123e7db.js",
+          "hash": "a057f930c2708177",
+          "publicPath": "/bubble-documentation/assets/js/814f3328.b123e7db.js"
+        }
+      ]
+    },
+    "517": {
+      "js": [
+        {
+          "file": "assets/js/3facfe24.ef51f216.js",
+          "hash": "cf9ad74bc8f4d0c1",
+          "publicPath": "/bubble-documentation/assets/js/3facfe24.ef51f216.js"
+        }
+      ]
+    },
+    "572": {
+      "js": [
+        {
+          "file": "assets/js/237d7be3.4f2a0706.js",
+          "hash": "ab1b279a8064878c",
+          "publicPath": "/bubble-documentation/assets/js/237d7be3.4f2a0706.js"
+        }
+      ]
+    },
+    "622": {
+      "js": [
+        {
+          "file": "assets/js/622.623353a2.js",
+          "hash": "8225cad6acc0a012",
+          "publicPath": "/bubble-documentation/assets/js/622.623353a2.js"
+        }
+      ]
+    },
+    "624": {
+      "js": [
+        {
+          "file": "assets/js/10411eb9.0ca8745a.js",
+          "hash": "d5de1ac284f72800",
+          "publicPath": "/bubble-documentation/assets/js/10411eb9.0ca8745a.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.5b8db20f.js",
+          "hash": "b3de24618e58a245",
+          "publicPath": "/bubble-documentation/assets/js/c4f5d8e4.5b8db20f.js"
+        }
+      ]
+    },
+    "636": {
+      "js": [
+        {
+          "file": "assets/js/857d31b5.1e90e12e.js",
+          "hash": "32aa75ca6bc0ee07",
+          "publicPath": "/bubble-documentation/assets/js/857d31b5.1e90e12e.js"
+        }
+      ]
+    },
+    "643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.ef79f96e.js",
+          "hash": "3d1f33153d25d894",
+          "publicPath": "/bubble-documentation/assets/js/a6aa9e1f.ef79f96e.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.5410611b.js",
+          "hash": "5cc52c3e5a0bf615",
+          "publicPath": "/bubble-documentation/assets/js/5e95c892.5410611b.js"
+        }
+      ]
+    },
+    "696": {
+      "js": [
+        {
+          "file": "assets/js/4d2154be.670039a6.js",
+          "hash": "1c26ab652e813852",
+          "publicPath": "/bubble-documentation/assets/js/4d2154be.670039a6.js"
+        }
+      ]
+    },
+    "701": {
+      "js": [
+        {
+          "file": "assets/js/707fe67d.29e7d826.js",
+          "hash": "a3e3872df4dcd264",
+          "publicPath": "/bubble-documentation/assets/js/707fe67d.29e7d826.js"
+        }
+      ]
+    },
+    "705": {
+      "js": [
+        {
+          "file": "assets/js/ed8a47c2.66ec7589.js",
+          "hash": "214008984d671803",
+          "publicPath": "/bubble-documentation/assets/js/ed8a47c2.66ec7589.js"
+        }
+      ]
+    },
+    "711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.e3a0365b.js",
+          "hash": "df8466e61284cec7",
+          "publicPath": "/bubble-documentation/assets/js/9e4087bc.e3a0365b.js"
+        }
+      ]
+    },
+    "717": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.c4c48189.js",
+          "hash": "72384a315af7445e",
+          "publicPath": "/bubble-documentation/assets/js/a7bd4aaa.c4c48189.js"
+        }
+      ]
+    },
+    "724": {
+      "js": [
+        {
+          "file": "assets/js/dff1c289.784d81b6.js",
+          "hash": "83ee6af352c48e00",
+          "publicPath": "/bubble-documentation/assets/js/dff1c289.784d81b6.js"
+        }
+      ]
+    },
+    "736": {
+      "js": [
+        {
+          "file": "assets/js/e44a2883.58d65fe0.js",
+          "hash": "721ab85010059bf2",
+          "publicPath": "/bubble-documentation/assets/js/e44a2883.58d65fe0.js"
+        }
+      ]
+    },
+    "737": {
+      "js": [
+        {
+          "file": "assets/js/117cc0b1.063a4ea4.js",
+          "hash": "65077ada05071be0",
+          "publicPath": "/bubble-documentation/assets/js/117cc0b1.063a4ea4.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.620a5137.js",
+          "hash": "a2427f4dae48e93f",
+          "publicPath": "/bubble-documentation/assets/js/aba21aa0.620a5137.js"
+        }
+      ]
+    },
+    "748": {
+      "js": [
+        {
+          "file": "assets/js/822bd8ab.47b5ff0d.js",
+          "hash": "974225b8e63321a3",
+          "publicPath": "/bubble-documentation/assets/js/822bd8ab.47b5ff0d.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.623f2fc2.js",
+          "hash": "8b6e758316f6e79a",
+          "publicPath": "/bubble-documentation/assets/js/main.623f2fc2.js"
+        }
+      ]
+    },
+    "813": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.602ad36e.js",
+          "hash": "29e5558d26b0ce15",
+          "publicPath": "/bubble-documentation/assets/js/6875c492.602ad36e.js"
+        }
+      ]
+    },
+    "858": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.42f70a4e.js",
+          "hash": "8ff9ace05a21cab2",
+          "publicPath": "/bubble-documentation/assets/js/36994c47.42f70a4e.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.f0b7912e.css",
+          "hash": "d38dbac6735c1904",
+          "publicPath": "/bubble-documentation/assets/css/styles.f0b7912e.css"
+        }
+      ]
+    },
+    "903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.8c84630a.js",
+          "hash": "d4345df121b21185",
+          "publicPath": "/bubble-documentation/assets/js/acecf23e.8c84630a.js"
+        }
+      ]
+    },
+    "953": {
+      "js": [
+        {
+          "file": "assets/js/1e4232ab.7263b694.js",
+          "hash": "10692705d4ba89de",
+          "publicPath": "/bubble-documentation/assets/js/1e4232ab.7263b694.js"
+        }
+      ]
+    },
+    "974": {
+      "js": [
+        {
+          "file": "assets/js/5c868d36.d50db897.js",
+          "hash": "58f08074b44a9c31",
+          "publicPath": "/bubble-documentation/assets/js/5c868d36.d50db897.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.9af0714f.js",
+          "hash": "a47bd513233474f9",
+          "publicPath": "/bubble-documentation/assets/js/0e384e19.9af0714f.js"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/congratulations",
+  "title": "Congratulations!",
+  "description": "You've completed the Bubble documentation basics tutorial. You now have the foundational knowledge to create comprehensive documentation for your Bubble applications.",
+  "source": "@site/docs/tutorial-basics/congratulations.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/bubble-documentation/docs/tutorial-basics/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/docs/tutorial-basics/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation Features in Bubble",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/markdown-features"
+  },
+  "next": {
+    "title": "Managing Documentation Versions",
+    "permalink": "/bubble-documentation/docs/tutorial-extras/manage-docs-versions"
+  }
+}

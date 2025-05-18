@@ -1,0 +1,58 @@
+{
+  "permalink": "/bubble-documentation/blog/getting-started-with-bubble-plugin-development",
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/blog/2025-05-10-getting-started-with-bubble-plugin-development.md",
+  "source": "@site/blog/2025-05-10-getting-started-with-bubble-plugin-development.md",
+  "title": "Getting Started with Bubble Plugin Development",
+  "description": "Bubble's plugin ecosystem is one of its most powerful features, allowing developers to extend the platform's capabilities and fill specific needs. In this guide, we'll walk through the process of creating your first Bubble plugin.",
+  "date": "2025-05-10T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "bubble",
+      "permalink": "/bubble-documentation/blog/tags/bubble"
+    },
+    {
+      "inline": true,
+      "label": "plugins",
+      "permalink": "/bubble-documentation/blog/tags/plugins"
+    },
+    {
+      "inline": true,
+      "label": "development",
+      "permalink": "/bubble-documentation/blog/tags/development"
+    },
+    {
+      "inline": true,
+      "label": "tutorial",
+      "permalink": "/bubble-documentation/blog/tags/tutorial"
+    }
+  ],
+  "readingTime": 4.215,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jane Doe",
+      "title": "Bubble Documentation Team",
+      "url": "https://github.com/janedoe",
+      "imageURL": "https://github.com/janedoe.png",
+      "key": "janedoe",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "getting-started-with-bubble-plugin-development",
+    "title": "Getting Started with Bubble Plugin Development",
+    "authors": "janedoe",
+    "tags": [
+      "bubble",
+      "plugins",
+      "development",
+      "tutorial"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "10 Productivity Tips for Bubble Developers",
+    "permalink": "/bubble-documentation/blog/bubble-productivity-tips"
+  }
+}

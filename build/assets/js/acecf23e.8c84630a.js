@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbubble_documentation=self.webpackChunkbubble_documentation||[]).push([[903],{1912:b=>{b.exports=JSON.parse('{"blogBasePath":"/bubble-documentation/blog","blogTitle":"Blog","authorsListPath":"/bubble-documentation/blog/authors"}')}}]);

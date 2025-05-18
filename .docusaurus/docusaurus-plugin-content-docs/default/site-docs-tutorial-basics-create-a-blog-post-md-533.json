@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/create-a-blog-post",
+  "title": "Creating a Blog with Bubble",
+  "description": "Bubble is not just for creating applications—it's also great for content management, including blogs. This guide will teach you how to create a blog system in your Bubble application.",
+  "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-blog-post",
+  "permalink": "/bubble-documentation/docs/tutorial-basics/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/docs/tutorial-basics/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating Documentation for Your Bubble App",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/create-a-document"
+  },
+  "next": {
+    "title": "Creating Pages in Your Bubble Application",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/create-a-page"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "/bubble-documentation/blog-95a": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "225fdc17"
+      },
+      {
+        "content": "5d7a290e"
+      }
+    ],
+    "__props": "14238dee"
+  },
+  "/bubble-documentation/blog/archive-108": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "ed8a47c2"
+  },
+  "/bubble-documentation/blog/authors-bdc": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "6447336c"
+  },
+  "/bubble-documentation/blog/bubble-productivity-tips-2a6": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "117cc0b1"
+  },
+  "/bubble-documentation/blog/getting-started-with-bubble-plugin-development-da3": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "237d7be3"
+  },
+  "/bubble-documentation/blog/tags-f8c": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "4d2154be"
+  },
+  "/bubble-documentation/blog/tags/bubble-e09": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "225fdc17"
+      },
+      {
+        "content": "5d7a290e"
+      }
+    ],
+    "__props": "857d31b5"
+  },
+  "/bubble-documentation/blog/tags/development-514": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "225fdc17"
+      },
+      {
+        "content": "5d7a290e"
+      }
+    ],
+    "__props": "750ecb2f"
+  },
+  "/bubble-documentation/blog/tags/plugins-1b1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "5d7a290e"
+      }
+    ],
+    "__props": "3facfe24"
+  },
+  "/bubble-documentation/blog/tags/productivity-9e4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "225fdc17"
+      }
+    ],
+    "__props": "8842bcfc"
+  },
+  "/bubble-documentation/blog/tags/tips-16c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "225fdc17"
+      }
+    ],
+    "__props": "707fe67d"
+  },
+  "/bubble-documentation/blog/tags/tutorial-34e": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "5d7a290e"
+      }
+    ],
+    "__props": "78c149a7"
+  },
+  "/bubble-documentation/docs-743": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/bubble-documentation/docs-9d8": {
+    "__comp": "a7bd4aaa",
+    "__props": "1f7520c2"
+  },
+  "/bubble-documentation/docs-5b9": {
+    "__comp": "a94703ab"
+  },
+  "/bubble-documentation/docs/intro-88b": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/bubble-documentation/docs/tutorial-basics/congratulations-d3a": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/bubble-documentation/docs/tutorial-basics/create-a-blog-post-1aa": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/bubble-documentation/docs/tutorial-basics/create-a-document-618": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/bubble-documentation/docs/tutorial-basics/create-a-page-b69": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/bubble-documentation/docs/tutorial-basics/markdown-features-b1e": {
+    "__comp": "17896441",
+    "content": "10411eb9"
+  },
+  "/bubble-documentation/docs/tutorial-extras/manage-docs-versions-ec7": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/bubble-documentation/docs/tutorial-extras/translate-your-site-9b1": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/bubble-documentation/-a6c": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

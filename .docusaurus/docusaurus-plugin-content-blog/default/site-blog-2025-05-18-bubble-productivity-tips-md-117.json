@@ -1,0 +1,58 @@
+{
+  "permalink": "/bubble-documentation/blog/bubble-productivity-tips",
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/blog/2025-05-18-bubble-productivity-tips.md",
+  "source": "@site/blog/2025-05-18-bubble-productivity-tips.md",
+  "title": "10 Productivity Tips for Bubble Developers",
+  "description": "Building applications with Bubble can be an incredibly efficient process, but as with any platform, there are ways to optimize your workflow. Here are 10 productivity tips to help you build better Bubble applications faster.",
+  "date": "2025-05-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "bubble",
+      "permalink": "/bubble-documentation/blog/tags/bubble"
+    },
+    {
+      "inline": true,
+      "label": "development",
+      "permalink": "/bubble-documentation/blog/tags/development"
+    },
+    {
+      "inline": true,
+      "label": "productivity",
+      "permalink": "/bubble-documentation/blog/tags/productivity"
+    },
+    {
+      "inline": true,
+      "label": "tips",
+      "permalink": "/bubble-documentation/blog/tags/tips"
+    }
+  ],
+  "readingTime": 2.88,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Alex Rodriguez",
+      "title": "Bubble Developer Advocate",
+      "url": "https://github.com/alexrodriguez",
+      "imageURL": "https://github.com/alexrodriguez.png",
+      "key": "alexrodriguez",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "bubble-productivity-tips",
+    "title": "10 Productivity Tips for Bubble Developers",
+    "authors": "alexrodriguez",
+    "tags": [
+      "bubble",
+      "development",
+      "productivity",
+      "tips"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Getting Started with Bubble Plugin Development",
+    "permalink": "/bubble-documentation/blog/getting-started-with-bubble-plugin-development"
+  }
+}

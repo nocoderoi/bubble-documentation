@@ -1,0 +1,23 @@
+{
+  "id": "tutorial-extras/translate-your-site",
+  "title": "Translating Documentation and Creating Multilingual Apps",
+  "description": "In today's global market, supporting multiple languages is essential for reaching a wider audience. This guide covers both translating your Bubble application documentation and creating multilingual Bubble applications.",
+  "source": "@site/docs/tutorial-extras/translate-your-site.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/translate-your-site",
+  "permalink": "/bubble-documentation/docs/tutorial-extras/translate-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/docs/tutorial-extras/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Managing Documentation Versions",
+    "permalink": "/bubble-documentation/docs/tutorial-extras/manage-docs-versions"
+  }
+}

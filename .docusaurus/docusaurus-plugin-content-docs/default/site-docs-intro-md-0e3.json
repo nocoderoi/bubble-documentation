@@ -1,0 +1,25 @@
+{
+  "id": "intro",
+  "title": "Introduction to Bubble",
+  "description": "Welcome to the official documentation for Bubble, a powerful no-code platform that enables you to build web applications without writing code.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/bubble-documentation/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "intro",
+    "title": "Introduction to Bubble"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Creating Documentation for Your Bubble App",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/create-a-document"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/create-a-page",
+  "title": "Creating Pages in Your Bubble Application",
+  "description": "Pages are the foundation of your Bubble application's user interface. This guide will walk you through creating and configuring pages effectively.",
+  "source": "@site/docs/tutorial-basics/create-a-page.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-page",
+  "permalink": "/bubble-documentation/docs/tutorial-basics/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/docs/tutorial-basics/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating a Blog with Bubble",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/create-a-blog-post"
+  },
+  "next": {
+    "title": "Documentation Features in Bubble",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/markdown-features"
+  }
+}

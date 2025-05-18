@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-extras/manage-docs-versions",
+  "title": "Managing Documentation Versions",
+  "description": "As your Bubble application evolves, you'll need to keep your documentation in sync with different versions of your app. This guide explains how to manage documentation versions effectively.",
+  "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/manage-docs-versions",
+  "permalink": "/bubble-documentation/docs/tutorial-extras/manage-docs-versions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nocoderoi/bubble-documentation/tree/main/docs/tutorial-extras/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/bubble-documentation/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Translating Documentation and Creating Multilingual Apps",
+    "permalink": "/bubble-documentation/docs/tutorial-extras/translate-your-site"
+  }
+}
