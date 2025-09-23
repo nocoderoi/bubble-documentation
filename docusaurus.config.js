@@ -37,6 +37,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -82,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'Plugins',
-                to: '/docs/searchbox-pro',
+                to: '/searchbox-pro',
               },
             ],
           },
