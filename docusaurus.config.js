@@ -5,7 +5,7 @@ const {themes} = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bubble Documentation',
+  title: 'Plugins Documentation',
   tagline: 'Documentation for Bubble platform',
   favicon: 'img/favicon.ico',
 
@@ -55,7 +55,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Bubble Documentation',
+        title: 'Plugins Documentation',
         logo: {
           alt: 'Bubble Logo',
           src: 'https://cdn.prod.website-files.com/659d6dd87d35d454a8ffd858/65a2817373352e86a37446e6_logo.svg',
@@ -82,7 +82,7 @@ const config = {
             items: [
               {
                 label: 'Plugins',
-                to: '/docs/plugins/searchbox-pro',
+                to: '/docs/searchbox-pro',
               },
             ],
           },
@@ -125,7 +125,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Bubble Documentation. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Plugins Documentation. Built with Docusaurus.`,
       },
       prism: {
         theme: themes.github,
