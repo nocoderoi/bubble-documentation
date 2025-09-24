@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# SearchBox Pro
+# SearchBox Pro - Dropdown
 
 ## Overview
 
@@ -56,6 +56,11 @@ Unlike basic search inputs, SearchBox Pro offers a complete search solution with
 | **Selected Item Caption** | Field to use as the value when an item is selected |
 | **Selected Item Placeholder Caption** | Field to display in the input when an item is selected |
 | **Max Items** | Maximum number of results to show in the dropdown |
+| **Default Selected Item** | The value of the item to be selected by default on page load. Should match a value from the `Default Selected Field` |
+| **Default Selected Field** | The data field to check for a match with `Default Selected Item`. If not provided, all search fields will be checked |
+| **Enable Add Item** | Show an "Add Item" button in the dropdown. Options: `Off`, `No Results`, `Always` |
+| **Add Item Label** | Custom text for the "Add Item" button |
+| **Add Item Icon** | [Material Icon](https://fonts.google.com/icons) code for the "Add Item" button icon |
 
 ### Appearance
 
@@ -69,6 +74,7 @@ Unlike basic search inputs, SearchBox Pro offers a complete search solution with
 | **No Results Text** | Message to display when no results match the search |
 | **Direction** | Text direction (LTR or RTL) |
 | **Show Search Icon** | Whether to display the search icon (binocular) |
+| **Dark Mode** | When set to true, applies a pre-defined dark theme to the component |
 
 ### State Control
 
@@ -84,12 +90,14 @@ Unlike basic search inputs, SearchBox Pro offers a complete search solution with
 |-------|------|-------------|
 | **is_loading** | Boolean | True while the search component is loading data |
 | **selected_value** | Text | Value of the currently selected item from the dropdown |
+| **add_item_input** | Text | The current search query when the "Add Item" button is clicked |
 
 ## Events
 
 | Event | Description |
 |-------|-------------|
 | **Item Selected** | Triggered when a user selects an item from the dropdown |
+| **Add Item Clicked** | Triggered when the "Add Item" button is clicked |
 | **Clear Selection** | Triggered when the search input is cleared |
 | **Search Reset** | Triggered when the search is reset |
 | **Initialized** | Triggered when the search component is fully initialized |
