@@ -60,6 +60,7 @@ const config = {
         logo: {
           alt: 'Bubble Logo',
           src: 'https://cdn.prod.website-files.com/659d6dd87d35d454a8ffd858/65a2817373352e86a37446e6_logo.svg',
+          to: '/searchbox-pro-dropdown',
         },
         items: [
           {
@@ -83,7 +84,7 @@ const config = {
             items: [
               {
                 label: 'Plugins',
-                to: '/searchbox-pro',
+                to: '/searchbox-pro-dropdown',
               },
             ],
           },
