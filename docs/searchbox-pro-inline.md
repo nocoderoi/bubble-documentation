@@ -8,7 +8,9 @@ sidebar_position: 2
 
 SearchBox Pro (Inline) is a streamlined version of the search plugin, designed for seamless integration directly into your app's UI without a dropdown. It provides real-time search results as a state, which you can then display in any repeating group or custom layout you choose.
 
-This version is perfect for creating custom search experiences, live filtering of on-page content, and integrating with other Bubble elements.
+Unlike fuzzy search plugins that use complex weighting algorithms to rank results (often taxing CPU resources unnecessarily), SearchBox Pro (Inline) delivers precise, substring-based matching across multiple fields without performance overhead. This approach provides accurate results instantly while maintaining optimal efficiency - perfect for applications where precision matters more than "smart" approximations.
+
+This version is ideal for creating custom search experiences, live filtering of on-page content, and integrating with other Bubble elements where you need reliable, fast search functionality without the computational cost of fuzzy matching algorithms.
 
 ## Key Features
 
