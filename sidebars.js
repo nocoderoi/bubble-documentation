@@ -21,6 +21,7 @@ const sidebars = {
       items: [
         'searchbox-pro-dropdown',
         'searchbox-pro-inline',
+        'list-to-xls-pro',
       ],
     },
   ],
