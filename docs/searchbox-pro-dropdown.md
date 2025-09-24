@@ -53,14 +53,18 @@ Unlike basic search inputs, SearchBox Pro offers a complete search solution with
 | **Dropdown List Field 1** | Primary field to display in results (defaults to Data Search Field 1 if not set) |
 | **Dropdown List Field 2** | Secondary field to display in results (defaults to Data Search Field 2 if not set) |
 | **Dropdown List Field 3** | Tertiary field to display in results (defaults to Data Search Field 3 if not set) |
+| **Dropdown List Field 4** | Fourth field to display in results (defaults to Data Search Field 4 if not set) |
+| **Dropdown List Field 5** | Fifth field to display in results (defaults to Data Search Field 5 if not set) |
 | **Selected Item Caption** | Field to use as the value when an item is selected |
 | **Selected Item Placeholder Caption** | Field to display in the input when an item is selected |
 | **Max Items** | Maximum number of results to show in the dropdown |
+| **No Results Text** | Custom message to display when no search results are found |
 | **Default Selected Item** | The value of the item to be selected by default on page load. Should match a value from the `Default Selected Field` |
 | **Default Selected Field** | The data field to check for a match with `Default Selected Item`. If not provided, all search fields will be checked |
 | **Enable Add Item** | Show an "Add Item" button in the dropdown. Options: `Off`, `No Results`, `Always` |
 | **Add Item Label** | Custom text for the "Add Item" button |
 | **Add Item Icon** | [Material Icon](https://fonts.google.com/icons) code for the "Add Item" button icon |
+| **On Focus** | Legacy property - use **Primary Color** instead |
 
 ### Appearance
 
@@ -115,8 +119,16 @@ SearchBox Pro provides full support for right-to-left languages like Arabic and 
 
 You can control which fields are displayed in the search results independently from the fields being searched:
 
-1. Use **Data Search Field 1**, **2**, and **3** to determine which fields are included in the search
-2. Use **Dropdown List Field 1**, **2**, and **3** to control which fields appear in the results and in what order
+1. Use **Data Search Field 1-5** to determine which fields are included in the search
+2. Use **Dropdown List Field 1-5** to control which fields appear in the results and in what order
+3. Use **Selected Item Caption** to specify which field value gets stored when an item is selected
+4. Use **Selected Item Placeholder Caption** to control what text appears in the input after selection
+
+### Customizing Messages and Labels
+
+1. **No Results Text** allows you to customize the message shown when no search results are found
+2. **Add Item Label** and **Add Item Icon** control the appearance of the "Add Item" button
+3. **Enable Add Item** determines when the "Add Item" button appears (Never, On No Results, or Always)
 
 ### Styling with Custom Colors
 
@@ -126,6 +138,7 @@ SearchBox Pro offers comprehensive color customization:
 2. **Input Background** sets the search box background
 3. **Dropdown Background** sets the results dropdown background
 4. **Placeholder Color** changes both the placeholder text and search icon color
+5. **Dark Mode** applies a pre-configured dark theme to all elements
 
 ## Use Cases
 
